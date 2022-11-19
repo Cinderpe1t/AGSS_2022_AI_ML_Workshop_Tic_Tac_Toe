@@ -31,3 +31,5 @@ import copy
 - Try combinations of them to see if their match statistics make sense
 - Check which one has most win, or least loss
 - How many games give you reliable statistics?
+
+[Next - Machine Learning Basics](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Machine_Learning_Basics) / [Top - AGSS 2022 AI ML Workshop](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop)
